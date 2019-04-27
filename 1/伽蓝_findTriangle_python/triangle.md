@@ -1,2 +1,2 @@
 Find all the triangles in the picture
-![](./triangles.jpg)
+![](./triangle.jpg)
